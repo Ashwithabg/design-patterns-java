@@ -13,6 +13,6 @@
 
 ## OBSERVER PATTERN
 
-### email subscriber
+- email subscriber
 
 ---------------------------------------------------------------------
