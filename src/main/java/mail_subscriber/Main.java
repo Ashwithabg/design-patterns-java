@@ -1,7 +1,7 @@
-package observer;
+package mail_subscriber;
 
-import observer.model.EmailTopic;
-import observer.model.EmailTopicObserver;
+import mail_subscriber.model.EmailTopic;
+import mail_subscriber.model.EmailTopicObserver;
 
 public class Main {
     public static void main(String[] args) {

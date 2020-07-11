@@ -1,7 +1,7 @@
-package observer.model;
+package mail_subscriber.model;
 
-import observer.interfaces.Observer;
-import observer.interfaces.Subject;
+import mail_subscriber.interfaces.Observer;
+import mail_subscriber.interfaces.Subject;
 
 public class EmailTopicObserver implements Observer {
     private String name;

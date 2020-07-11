@@ -1,4 +1,4 @@
-package observer.interfaces;
+package mail_subscriber.interfaces;
 
 public interface Subject {
     public void register(Observer observer);
