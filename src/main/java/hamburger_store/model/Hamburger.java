@@ -1,15 +1,17 @@
 package hamburger_store.model;
 
 public abstract class Hamburger {
-    void prepare(){
-        System.out.println("prepare");
+    public String name;
+
+    void prepare() {
+        System.out.println("preparing " + name);
     }
 
-    void cook(){
-        System.out.println("cook");
+    void cook() {
+        System.out.println("cooking " + name);
     }
 
-    void box(){
+    void box() {
         System.out.println("box");
     }
 }
