@@ -8,18 +8,24 @@
 
 ### 2. Payment options
  - Allows to choose different payment options.
-
 ---------------------------------------------------------------------
 
 ## OBSERVER PATTERN
 
 - email subscriber
-
 ---------------------------------------------------------------------
 
 ## DECORATOR PATTERN
 
 - Icecream shop
    - add new type of ice creams with the help of decorator.
-
 ---------------------------------------------------------------------
+
+## FACTORY PATTERN
+
+- Hamburger Store
+   - Remove conditions to get different kind of burgers
+   - suppose if we have 200 types of burgers - then we will have 200 conditions :(
+   - thats where Factory patterns comes in
+---------------------------------------------------------------------
+
