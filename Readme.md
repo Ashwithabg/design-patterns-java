@@ -29,3 +29,9 @@
    - thats where Factory patterns comes in
 ---------------------------------------------------------------------
 
+## SINGLETON PATTERN
+
+    - sometimes we do not need too many instances of a class
+    - singleton helps us create only one instance
+---------------------------------------------------------------------
+
