@@ -1,4 +1,4 @@
-package hamburger_store.model;
+package simple_hamburger_store.model;
 
 public class MeatBurger extends Hamburger {
     @Override
