@@ -16,3 +16,10 @@
 - email subscriber
 
 ---------------------------------------------------------------------
+
+## DECORATOR PATTERN
+
+- Icecream shop
+    - add new type of ice creams with the help of decorator.
+
+---------------------------------------------------------------------
