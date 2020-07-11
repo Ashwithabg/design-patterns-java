@@ -35,3 +35,7 @@
     - singleton helps us create only one instance
 ---------------------------------------------------------------------
 
+## COMMAND PATTERN
+    - Game controller example
+
+---------------------------------------------------------------------
