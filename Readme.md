@@ -39,3 +39,8 @@
     - Game controller example
 
 ---------------------------------------------------------------------
+
+## ADAPTER PATTERN
+
+    - Helps in connecting two different things (interfaces)
+---------------------------------------------------------------------
