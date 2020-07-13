@@ -44,3 +44,7 @@
 
     - Helps in connecting two different things (interfaces)
 ---------------------------------------------------------------------
+
+## FACADE PATTERN
+    - provides a unified interface to a set of interfaces in the sub system.
+---------------------------------------------------------------------
