@@ -5,7 +5,6 @@
 ### 1. ScoreBoard
  - Allows tap on different object with different calculation for score.
 
-
 ### 2. Payment options
  - Allows to choose different payment options.
 ---------------------------------------------------------------------
@@ -16,7 +15,6 @@
 ---------------------------------------------------------------------
 
 ## DECORATOR PATTERN
-
 - Icecream shop
    - add new type of ice creams with the help of decorator.
 ---------------------------------------------------------------------
@@ -30,7 +28,6 @@
 ---------------------------------------------------------------------
 
 ## SINGLETON PATTERN
-
     - sometimes we do not need too many instances of a class
     - singleton helps us create only one instance
 ---------------------------------------------------------------------
@@ -41,7 +38,6 @@
 ---------------------------------------------------------------------
 
 ## ADAPTER PATTERN
-
     - Helps in connecting two different things (interfaces)
 ---------------------------------------------------------------------
 
@@ -51,4 +47,8 @@
 ## TEMPLATE PATTERN
     - defines the skeleton of an algo in a method, referring some steps for subclass
 
+---------------------------------------------------------------------
+## ITERATOR PATTERN
+    - provides a way to access the element of an aggregate object sequentially
+    without exposing its underlying representation.
 ---------------------------------------------------------------------
