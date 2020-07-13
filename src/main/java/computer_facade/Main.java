@@ -1,9 +1,9 @@
-package facade;
+package computer_facade;
 
-import facade.model.CPU;
-import facade.model.ComputerFacade;
-import facade.model.HardDrive;
-import facade.model.Memory;
+import computer_facade.model.CPU;
+import computer_facade.model.ComputerFacade;
+import computer_facade.model.HardDrive;
+import computer_facade.model.Memory;
 
 public class Main {
     public static void main(String[] args) {

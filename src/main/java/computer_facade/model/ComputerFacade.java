@@ -1,4 +1,4 @@
-package facade.model;
+package computer_facade.model;
 
 public class ComputerFacade {
     private CPU cpu;
