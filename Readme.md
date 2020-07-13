@@ -48,3 +48,7 @@
 ## FACADE PATTERN
     - provides a unified interface to a set of interfaces in the sub system.
 ---------------------------------------------------------------------
+## TEMPLATE PATTERN
+    - defines the skeleton of an algo in a method, referring some steps for subclass
+
+---------------------------------------------------------------------
