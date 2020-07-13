@@ -15,4 +15,13 @@ public class Football extends Game{
     void endPlay() {
         System.out.println("football ending");
     }
+
+    @Override
+    protected void addNewCharacter() {
+        System.out.println("new character");
+    }
+
+    boolean playerWantsNewCharacter() {
+        return true;
+    }
 }
