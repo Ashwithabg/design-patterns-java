@@ -52,3 +52,8 @@
     - provides a way to access the element of an aggregate object sequentially
     without exposing its underlying representation.
 ---------------------------------------------------------------------
+
+## STATE DESIGN PATTERN
+    - Allows an object to alter its behavior when its internal state changes
+
+---------------------------------------------------------------------
